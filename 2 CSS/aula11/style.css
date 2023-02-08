@@ -1,0 +1,53 @@
+body{
+  background:rgb(204, 200, 200,);
+  font-family: 'Raleway', sem serifa;
+
+}
+.container{
+  width: 900px;
+  margin: 0 auto;
+}
+
+.inicial{
+  text-align: center;
+  margin-bottom: 40px;
+ 
+}
+.rede{
+  width: 40px;
+}
+.rede1{
+  text-decoration: none;
+}
+
+
+.github{
+  margin: 0 10px 0 10px;
+}
+
+.foto{
+  border: 10px double rgb(224, 219, 219);
+  border-radius: 10% 10% 10% 10%; /*deixa redonda*/
+  margin-bottom: 10px;
+  margin:30px 30px 0 30px ;
+  padding: 10px; /*espaço interno entre border*/
+  box-shadow: 2px 2px 2px 2px;
+}
+h1{
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  font-family: 'PT Sans Narrow', sem serifa;
+  font-size: 40px;
+}
+h2{
+margin-top: 0;
+font-style: italic;
+color: rgb(73,73,73);
+font-weight: 100;
+letter-spacing: -1px;
+}
+
+
+  
+
+

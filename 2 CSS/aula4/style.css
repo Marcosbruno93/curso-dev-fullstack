@@ -1,0 +1,11 @@
+body{
+  background:rgb(204, 200, 200,);
+}
+p{
+  color: #222222;
+}
+.foto{
+  border: 10px double black;
+  border-radius: 10% 10% 10% 10%; /*deixa redonda*/
+
+}
